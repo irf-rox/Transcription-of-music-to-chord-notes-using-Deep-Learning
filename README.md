@@ -137,11 +137,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -154,9 +149,3 @@ This project was inspired by research in the field of music information retrieva
 These studies have contributed significantly to the development of automated chord transcription systems.
 
 ---
-
-Feel free to customize this `README.md` further to align with your project's specific details and requirements.
-
-[1]: https://en.music396.com/question/what-are-the-advantages-and-disadvantages-of-using-neural-networks-for-automatic-music-transcription/191009?utm_source=chatgpt.com "What are the advantages and disadvantages of using neural networks for automatic music transcription?"
-[2]: https://verbit.ai/media/ai-music-transcription-revolutionizing-music-analysis-creation/?utm_source=chatgpt.com "AI Music Transcription: Revolutionizing Music Analysis & Creation - Verbit"
-[3]: https://arxiv.org/abs/1612.05065?utm_source=chatgpt.com "Feature Learning for Chord Recognition: The Deep Chroma Extractor"
